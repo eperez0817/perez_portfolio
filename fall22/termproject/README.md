@@ -16,7 +16,6 @@ Minkowski.cpp, Minkowski.h
 GJK.cpp, GJK.h
 
 main.cpp
-
 ```
 ### Instructions for the initial setup for sfml
 
