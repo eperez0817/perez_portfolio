@@ -1,5 +1,6 @@
-# csc212-Final-Project-ABun
+# csc212-Final-Project
 ## Convex hull Project
+Group members: Aaron Bun, Eddie Perez, Matthew Tabatneck
 ```
 IMPORTANT 
 
