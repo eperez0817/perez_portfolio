@@ -23,7 +23,7 @@ In order to run the code, visual studios and sfml is needed. To recreate our pro
 
 It will be downloaded in a zip file and you must extract the files within the zip. Once this is done, you must create an additionaly folder called external. From the sfml file, copy the folders called "include" and "lib" and paste them into the external folder. 
 
-The next step is to create a new c++ project and copy all the source code from the "FinalProduct" folder in our github repo. You will also need to place the external folder into the c++ project repo. 
+The next step is to create a new c++ project and copy all the source code from the "termproject" folder in our github repo. You will also need to place the external folder into the c++ project repo. 
 
 Go into the Project Properties, find C/C++ and go under general, click on "Additional Include Directories" and click edit
 
