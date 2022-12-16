@@ -54,7 +54,7 @@ sfml-network-d.lib
 
 Our application takes in two binary images represented in a text file format. Here is a useful link to convert any image into a binary image. https://www.dcode.fr/binary-image
 
-You will need to create a two text files and copy the image text values from the website and paste them in text files. However, two text files will be provided in our github repo. `shilouette1.txt` and `shilouette2.txt` . Place the text files into a folder where you can access them.
+You will need to create a two text files and copy the image text values from the website and paste them in text files. However, two text files will be provided in our github repo. `silhouette1.txt` and `silhouette2.txt` . Place the text files into a folder where you can access them.
 
 ## Command line
 ```
