@@ -1,5 +1,5 @@
-#Assignment 1
-##Image Binarization
+# Assignment 1
+## Image Binarization
 The purpose of this assignment was to review tasks in C++ including processing command line arguments, reading/writing files, and manipulating data in arrays.
 
 This assignment revolved around **image binarization**, which is the process of taking a grayscale image and transforming it into a black and white image. The program would read a grayscale image file, which contains pixel values ranging between 0 and 255, and change all pixels to either 0 (black) or 255 (white).
