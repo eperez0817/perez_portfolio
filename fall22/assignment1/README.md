@@ -13,7 +13,7 @@ Deciding which pixels to change to 0 or 255 depends on whether or not the progra
 An example input file is located within this assignment folder.
 
 To compile and run the code, the command line arguments must define whether thresholding will be local or global, the name of the input file, the name of the output file, and the size of the neighborhood if local is selected.
-'''
-$ ./binarizer global input.img output.img
-$ ./binarizer local input.img output.img 5
-'''
+```
+ $ ./binarizer global input.img output.img
+ $ ./binarizer local input.img output.img 5
+```
