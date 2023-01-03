@@ -1,6 +1,10 @@
 # csc212-Final-Project
 ## Convex hull Project
 Group members: Aaron Bun, Eddie Perez, Matthew Tabatneck
+
+## Purpose
+The purpose of this term project was to research and implement the Graham Scan algorithm to find a convex hull.
+
 ```
 IMPORTANT 
 
