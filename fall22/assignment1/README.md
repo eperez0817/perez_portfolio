@@ -1,3 +1,4 @@
+#Assignment 1
 ##Image Binarization
 The purpose of this assignment was to review tasks in C++ including processing command line arguments, reading/writing files, and manipulating data in arrays.
 
